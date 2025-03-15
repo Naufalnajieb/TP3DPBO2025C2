@@ -1,7 +1,5 @@
 # TP3DPBO2025C2
 
-# TP2DPBO2025C2
-
 # Janji
 Saya Naufal Fakhri Al-Najieb dengan NIM 2309648 mengerjakan Tugas Praktikum 3
 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya 
